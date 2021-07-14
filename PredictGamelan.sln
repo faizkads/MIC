@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PredictGamelan", "PredictGamelan.pyproj", "{8F5BB45D-43AF-47AF-B614-14A8D7C82E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5BB45D-43AF-47AF-B614-14A8D7C82E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5BB45D-43AF-47AF-B614-14A8D7C82E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26649130-6CE2-465B-9174-DA90633996A5}
+	EndGlobalSection
+EndGlobal
